@@ -1,0 +1,4 @@
+INFO  2020/12/08 01:02:11  revel  revel.go:124: Paths                                    revel=/home/ubuntu/go/pkg/mod/github.com/revel/revel@v1.0.0 base=/home/ubuntu/go/myapp app=/home/ubuntu/go/myapp/app views=/home/ubuntu/go/myapp/app/views 
+INFO  2020/12/08 01:06:54  revel  revel.go:124: Paths                                    revel=/home/ubuntu/go/pkg/mod/github.com/revel/revel@v1.0.0 base=/home/ubuntu/go/myapp app=/home/ubuntu/go/myapp/app views=/home/ubuntu/go/myapp/app/views 
+INFO  2020/12/08 01:18:54  revel  revel.go:124: Paths                                   revel=/home/ubuntu/go/pkg/mod/github.com/revel/revel@v1.0.0 base=/home/ubuntu/go/myapp app=/home/ubuntu/go/myapp/app views=/home/ubuntu/go/myapp/app/views  
+INFO  2020/12/08 01:31:46  revel  revel.go:124: Paths                                   app=/home/ubuntu/go/myapp/app views=/home/ubuntu/go/myapp/app/views   revel=/home/ubuntu/go/pkg/mod/github.com/revel/revel@v1.0.0 base=/home/ubuntu/go/myapp
